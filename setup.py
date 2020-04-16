@@ -16,7 +16,7 @@ setup(
     keywords="in-app store purchase googleplay appstore validation",
     author="Lukas Šalkauskas",
     author_email="halfas.online@gmail.com",
-    url="https://github.com/dotpot/InAppPy",
+    url="https://github.com/Nkhinatolla/InAppPy.git",
     long_description=get_description(),
     license="MIT",
 )
